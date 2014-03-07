@@ -1,6 +1,15 @@
+/*!  метод слияние*/
+
 #include "head.h"
+
+
+
 void Merge(char *A, int first, int last)
 {
+/** 
+     * Перечисление.
+     * Более подробное описание перечисление.
+     */
 	int middle, start, final, j;
 	char *mas=new char[ 100 ];
 	{
