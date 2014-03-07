@@ -1,4 +1,6 @@
+/*!  метод пузырька*/
 #include "head.h"
+
 void P_Sort ( char *Mass, int n )
 {
 	char TMP;
